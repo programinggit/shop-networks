@@ -4,3 +4,8 @@ env/
 venv/
 .env/
 .venv/
+
+
+# python caches file
+__pycache__/
+.pyc

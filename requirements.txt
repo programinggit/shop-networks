@@ -1,2 +1,5 @@
 django==4.2
 djangorestframework==3.14
+django-rest-swagger==2.2.0
+PyYAML==6.0
+uritemplate==4.1.1
