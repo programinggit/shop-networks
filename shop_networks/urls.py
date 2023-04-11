@@ -35,6 +35,5 @@ urlpatterns = [
     ), name='swagger-ui'),
 
     path('admin/', admin.site.urls),
-
     path('hello-world/', HelloWorldView.as_view(), name='hello_world'),
 ]

@@ -1,0 +1,7 @@
+
+{
+  "app": "network-shop",
+  "django": {
+    "pythonVersion": "3.10"
+  }
+}
